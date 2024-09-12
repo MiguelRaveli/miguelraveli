@@ -1,4 +1,4 @@
-## Olá! Eu sou o Miguel Raveli, Desenvolvedor Full-Stack!
+## Olá! Eu sou o Miguel Raveli, Desenvolvedor!
 Sou apaixonado por desenvolver sites funcionais e acessíveis. Minhas 
 competências englobam conceitos de design de interface do usuário,
 compreensão do usuário, responsividade e gerenciamento de dados.
