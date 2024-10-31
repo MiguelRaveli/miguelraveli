@@ -1,29 +1,33 @@
-## Olá! Eu sou o Miguel Raveli, Desenvolvedor!
-Sou apaixonado por desenvolver sites funcionais e acessíveis. Minhas 
-competências englobam conceitos de design de interface do usuário,
-compreensão do usuário, responsividade e gerenciamento de dados.
-Minhas habilidades incluem: 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="mailto:miguelraveli123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miguel-raveli-gusmao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Olá! Me chamo Miguel Raveli 👋
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](http://miguelraveli.com.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-raveli-gusmao/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelraveli/)
+
+![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelraveli&show_icons=true&theme=radical)
+
+## Tecnologias mais usadas
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <br/><br/>
 </div>
 
- <div>
-   <a href="https://github.com/MiguelRaveli">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRaveli&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelraveli&layout=compact)
+
+#### Apaixonado por tecnologia, desenvolvo aplicações enquanto me aplico a desenvolver.
+
+## Últimos Projetos:
+ - ### [Dogie Gallery](https://miguelraveli.github.io/dogiegallery)
+
+## Contato
+
+#### 📞 **Telefone:** (11) 96832-4149  
+#### 💬 **WhatsApp:** [Clique aqui para conversar](https://wa.me/5511968324149)  
+#### ✉️ **E-mail:** [seuemail@dominio.com](mailto:miguelraveli123@gmail.com)
+
 
