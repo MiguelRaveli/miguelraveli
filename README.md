@@ -28,6 +28,6 @@
 
 #### 📞 **Telefone:** (11) 96832-4149  
 #### 💬 **WhatsApp:** [Clique aqui para conversar](https://wa.me/5511968324149)  
-#### ✉️ **E-mail:** [seuemail@dominio.com](mailto:miguelraveli123@gmail.com)
+#### ✉️ **E-mail:** [miguelraveli123@gmail.com](mailto:miguelraveli123@gmail.com)
 
 
