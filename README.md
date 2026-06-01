@@ -20,7 +20,6 @@
 #### Apaixonado por tecnologia, desenvolvo aplicações enquanto me aplico a desenvolver.
 
 ## Últimos Projetos:
- - ### [Dogie Gallery](https://miguelraveli.github.io/dogiegallery)
  - ### [MOVIESPACE](https://miguelraveli.github.io/moviespace)
 
 ## Contato
