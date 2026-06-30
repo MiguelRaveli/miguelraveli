@@ -15,8 +15,6 @@
     <br/><br/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelraveli)](https://github.com/miguelraveli/github-readme-stats)
-
 #### Apaixonado por tecnologia, desenvolvo aplicações enquanto me aplico a desenvolver.
 
 ## Últimos Projetos:
