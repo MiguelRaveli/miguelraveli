@@ -15,7 +15,7 @@
     <br/><br/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelraveli)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelraveli)](https://github.com/miguelraveli/github-readme-stats)
 
 #### Apaixonado por tecnologia, desenvolvo aplicações enquanto me aplico a desenvolver.
 
